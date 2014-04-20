@@ -1,0 +1,7 @@
+# TODO: add all standard stuff for normal java projects here
+# Match at any level.
+# emacs
+*~
+# vim
+.*.sw[a-z]
+*.class
